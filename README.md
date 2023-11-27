@@ -1,4 +1,4 @@
-# Histogram-vs-Graph-Chart-Stats-
+# Histogram vs Graph Chart
 
 <!DOCTYPE html>
 <html lang="en">
